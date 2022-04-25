@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raj-Mandloii
 - 🌱 I’m a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on Flutter Opne Source Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 
 
 <!---
