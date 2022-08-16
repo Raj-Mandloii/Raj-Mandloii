@@ -14,9 +14,8 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
-
-<a href="https://www.linkedin.com/in/raj-mandloi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-mandloi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-
+<a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sumit-mandloi-a9b70b171/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### 👉🏼 More about me?
@@ -25,7 +24,9 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raj-mandloii.github.io/raj-mandloi/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
+
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
@@ -35,7 +36,10 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://redux.js.org" target="_blank"> <img src="icons/flutter.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+      <a href="https://redux.js.org" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -44,6 +48,14 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 
 <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Raj-Mandloii&show_icons=true&locale=en&theme=tokyonight" alt="RAJ" width="380" /></p>
 </div>
+
+## Watch my contribution graph get eaten by the snake 🐍
+
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![shadowsum07 snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)   
+
+### Show some ❤️ by starring some of the repositories!
+
 
 <br/><br/><br/><br/>
 
