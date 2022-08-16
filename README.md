@@ -49,12 +49,7 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Raj-Mandloii&show_icons=true&locale=en&theme=tokyonight" alt="RAJ" width="380" /></p>
 </div>
 
-## Watch my contribution graph get eaten by the snake 🐍
 
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![shadowsum07 snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)   
-
-### Show some ❤️ by starring some of the repositories!
 
 
 <br/><br/><br/><br/>
@@ -65,7 +60,12 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 <br/><br/>
 
 <h1></h1>
+## Watch my contribution graph get eaten by the snake 🐍
 
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)   
+
+### Show some ❤️ by starring some of the repositories!
 
   <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
 
