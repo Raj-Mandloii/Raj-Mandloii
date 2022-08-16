@@ -8,9 +8,9 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 
 - 🌱 I’m currently learning **Full Stack Web Developement At Masai School.**
 
-- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT/DART**
+- 💬 Ask me about : **React/ HTML/ CSS/ JAVASCRIPT/ DART**
 
-- ⚡ Fun fact **I ❤️ Solving Problems**
+- ⚡ Fun fact : **I ❤️ Solving Problems**
 
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
@@ -66,7 +66,7 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!-- ![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)    -->
 
-<!-- ### Show some ❤️ by starring some of the repositories! --> -->
+<!-- ### Show some ❤️ by starring some of the repositories! --> 
 
   <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
 
