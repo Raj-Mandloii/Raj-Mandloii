@@ -15,7 +15,7 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sumit-mandloi-a9b70b171/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### 👉🏼 More about me?
@@ -60,12 +60,12 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
 <br/><br/>
 
 <h1></h1>
-## Watch my contribution graph get eaten by the snake 🐍
+<!-- ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)   
+<!-- ![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)    -->
 
-### Show some ❤️ by starring some of the repositories!
+<!-- ### Show some ❤️ by starring some of the repositories! --> -->
 
   <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
 
