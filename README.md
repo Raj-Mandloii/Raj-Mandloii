@@ -42,7 +42,7 @@ I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter D
   </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/)
 
  <div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj" width="380" /></p>
