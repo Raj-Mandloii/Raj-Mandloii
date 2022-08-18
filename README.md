@@ -6,7 +6,10 @@
 
 - I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+- I continually seek new challenges and desire to expand my knowledge and experience.
+- Software quality, scalability and Service Oriented Architecture are subjects that fascinate me.
 - I love to explore new technologies and leverage them to solve real-life problems 
+- I like to see myself as a passionate developer, and an eternal learner.
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="350" height="230"/>
 
 Talking about my personal stuff:
