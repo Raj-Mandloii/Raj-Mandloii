@@ -53,7 +53,7 @@ Talking about my personal stuff:
 
  <div >
  <br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj" width="380" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p>
 <p>&nbsp;<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Mandloii&theme=dark" alt="RAJ" width="400" /></p>
 
 
