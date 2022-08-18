@@ -1,16 +1,31 @@
 # Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
 
-- I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Raj-Mandloii&label=Profile%20Views&color=1238b5&style=round" alt="Raj-Mandloi" /> </p>
 
+<p align="center">
+
+- I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-- I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
+- I love to explore new technologies and leverage them to solve real-life problems 
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="350" height="230"/>
 Talking about my personal stuff:
 - 🙋‍♂️ Full Stack Web Developer.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - 📄 Portfolio - "https://raj-mandloii.github.io/raj-mandloi/"
-<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-Mandloii&label=Profile%20Views&color=1238b5&style=round" alt="Raj-Mandloi" /> </p>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2 align="left">☕ Let's Connect</h2>
