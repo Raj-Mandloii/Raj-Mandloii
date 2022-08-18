@@ -53,12 +53,15 @@ Talking about my personal stuff:
 
  <div >
  
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj" width="380" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj" width="380" /></p>
 
 
+<br/><br/><br/><br/>
+
+<br/><br/><br/><br/>
 <!-- <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Raj-Mandloii&show_icons=true&locale=en&theme=tokyonight" alt="RAJ" width="380" /></p> -->
 
-<p align="right">
+<p align="center">
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj-Mandloii&theme=dark)](https://github.com/Raj-Mandloii/github-readme-streak-stats)
 </p>
