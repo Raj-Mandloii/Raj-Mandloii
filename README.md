@@ -15,20 +15,9 @@ Talking about my personal stuff:
 - 📄 Portfolio - "https://raj-mandloii.github.io/raj-mandloi/"
 
 </p>
+<br/><br/><br/><br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/><br/><br/>
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -45,7 +34,7 @@ Talking about my personal stuff:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
 
-<h2 align="left">🛠 Languages and Tools:</h2>
+<h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
