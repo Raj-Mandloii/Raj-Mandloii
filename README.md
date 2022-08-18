@@ -30,7 +30,7 @@ Talking about my personal stuff:
 <!-- <h1>I'm a multipotentialite who enjoys binge watching.</h1> -->
 
 ## 🔗 Links
-<br/><br/><br/>
+<br/>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
