@@ -1,7 +1,5 @@
 # Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Raj-Mandloii&label=Profile%20Views&color=1238b5&style=round" alt="Raj-Mandloi" /> </p>
-
 <p align="center">
 
 - I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
@@ -32,7 +30,7 @@ Talking about my personal stuff:
 <!-- <h1>I'm a multipotentialite who enjoys binge watching.</h1> -->
 
 ## 🔗 Links
-
+<br/><br/><br/>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
@@ -54,10 +52,19 @@ Talking about my personal stuff:
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/)
 
  <div >
+ 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj" width="380" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Raj-Mandloii&show_icons=true&locale=en&theme=tokyonight" alt="RAJ" width="380" /></p>
+
+<!-- <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Raj-Mandloii&show_icons=true&locale=en&theme=tokyonight" alt="RAJ" width="380" /></p> -->
+
+<p align="right">
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj-Mandloii&theme=dark)](https://github.com/Raj-Mandloii/github-readme-streak-stats)
+</p>
+
 </div>
+
 
 
 
