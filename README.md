@@ -8,7 +8,7 @@ Talking about my personal stuff:
 - 🙋‍♂️ Full Stack Web Developer.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - 📄 Portfolio - "https://raj-mandloii.github.io/raj-mandloi/"
-
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-Mandloii&label=Profile%20Views&color=1238b5&style=round" alt="Raj-Mandloi" /> </p>
 
