@@ -13,7 +13,7 @@
 Talking about my personal stuff:
 - 🙋‍♂️ Full Stack Web Developer.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://raj-mandloii.github.io/raj-mandloi/"
+- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
 
 </p>
 <br/><br/><br/><br/>
