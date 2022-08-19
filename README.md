@@ -10,10 +10,7 @@
 - I like to see myself as a passionate developer, and an eternal learner.
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="350" height="230"/>
 
-Talking about my personal stuff:
-- 🙋‍♂️ Full Stack Web Developer.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+
 
 </p>
 <br/><br/><br/><br/>
@@ -88,4 +85,9 @@ Talking about my personal stuff:
 <!--   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
 <!--  ==============                                     GRAPH                                   ============ -->
-<!-- <a href="https://github.com/Raj-Mandloii/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <a href="https://github.com/Raj-Mandloii/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+Talking about my personal stuff:
+- 🙋‍♂️ Full Stack Web Developer.
+- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
+- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+-->
