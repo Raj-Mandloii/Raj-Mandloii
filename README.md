@@ -9,7 +9,9 @@
 - I love to explore new technologies and leverage them to solve real-life problems 
 - I like to see myself as a passionate developer, and an eternal learner.
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="350" height="230"/>
+   
 Talking about my personal stuff:
+   
 - 🙋‍♂️ Full Stack Web Developer.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
