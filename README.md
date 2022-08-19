@@ -56,7 +56,10 @@
 
 
 </div>
-
+Talking about my personal stuff:
+- 🙋‍♂️ Full Stack Web Developer.
+- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
+- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
 
 
 
@@ -86,8 +89,5 @@
 
 <!--  ==============                                     GRAPH                                   ============ -->
 <!-- <a href="https://github.com/Raj-Mandloii/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
-Talking about my personal stuff:
-- 🙋‍♂️ Full Stack Web Developer.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+
 -->
