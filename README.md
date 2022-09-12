@@ -20,12 +20,10 @@
 
 <br/><br/><br/><br/>
 <h2 align="center">☕ Let's Connect</h2>
-<br/><br/>
 <p align="center">
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
 <p align="center">
