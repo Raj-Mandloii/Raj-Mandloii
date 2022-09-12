@@ -27,12 +27,7 @@ Talking about my personal stuff:
 <a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### 👉🏼 More about me?
 
-<!-- <h1>I'm a multipotentialite who enjoys binge watching.</h1> -->
-
-## 🔗 Links
-<br/>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
