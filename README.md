@@ -12,15 +12,15 @@
 - I like to see myself as a passionate developer, and an eternal learner.
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<br/><br/><br/><br/>
+
    
 
 
 
 </p>
-<br/><br/><br/><br/>
 
-<br/><br/><br/><br/>
+
+<!-- <br/><br/><br/><br/> -->
 <h2 align="center">☕ Let's Connect</h2>
 <p align="center">
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
