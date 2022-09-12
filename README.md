@@ -10,11 +10,7 @@
 - I like to see myself as a passionate developer, and an eternal learner.
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="350" height="230"/>
    
-Talking about my personal stuff:
-   
-- 🙋‍♂️ Full Stack Web Developer.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+
    
 
 
@@ -41,8 +37,9 @@ Talking about my personal stuff:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://redux.js.org" target="_blank"> <img src="icons/flutter.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-      <a href="https://redux.js.org" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+    <a href="https://flutter.dev/" target="_blank"> <img src="icons/flutter.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+      <a href="https://dart.dev/" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+      <a href="https://www.mongodb.com/" target="_blank"> <img src="icons/mongo.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -74,7 +71,15 @@ Talking about my personal stuff:
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!-- ![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)    -->
 
-<!-- ### Show some ❤️ by starring some of the repositories! --> 
+<!-- ### Show some ❤️ by starring some of the repositories! 
+Talking about my personal stuff:
+   
+- 🙋‍♂️ Full Stack Web Developer.
+- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
+- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+
+
+--> 
 
   <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 
