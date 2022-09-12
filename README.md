@@ -25,9 +25,6 @@
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-<br/><br/>
-
-
 
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
@@ -44,6 +41,7 @@
       <a href="https://dart.dev/" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
       
   </p>
+<br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/)
