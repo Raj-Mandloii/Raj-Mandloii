@@ -1,6 +1,10 @@
-# Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
+<!-- # Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Raj+Mandloi !;Learning+Full+Stack-Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Raj-Mandloii&label=Profile%20Views&color=1238b5&style=round" alt="Raj-Mandloi" /> </p>
+
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="center">
 
@@ -10,7 +14,7 @@
 - Software quality, scalability and Service Oriented Architecture are subjects that fascinate me.
 - I love to explore new technologies and leverage them to solve real-life problems 
 - I like to see myself as a passionate developer, and an eternal learner.
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
    
