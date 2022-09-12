@@ -15,6 +15,9 @@ Talking about my personal stuff:
 - 🙋‍♂️ Full Stack Web Developer.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
+   
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
 
 </p>
@@ -28,8 +31,6 @@ Talking about my personal stuff:
 </p>
 
 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
 
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
