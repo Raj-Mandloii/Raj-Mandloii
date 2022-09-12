@@ -53,10 +53,6 @@
 
 </div>
 
-
-
-
-
 <br/><br/><br/><br/>
 
 <br/><br/><br/><br/>
@@ -64,7 +60,16 @@
 
 <br/><br/>
 
+
 <h1></h1>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Raj-Mandloii/gold-tub-6222" title="Hub Spot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=gold-tub-6222&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Raj-Mandloii/max-fashion-website-clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=max-fashion-website-clone&theme=react&border_color=61dafb&border_radius=10"></a>
+ <br><br><br><br><br><br>
+  <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=Chat-App&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 <!-- ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
