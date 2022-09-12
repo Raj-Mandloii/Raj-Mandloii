@@ -20,15 +20,17 @@
 
 <br/><br/><br/><br/>
 <h2 align="center">☕ Let's Connect</h2>
+<br/><br/>
 <p align="center">
 <a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-
+<br/><br/>
 
 
 
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
+<br/><br/>
 <p align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
