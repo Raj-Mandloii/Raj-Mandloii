@@ -17,7 +17,6 @@ Talking about my personal stuff:
 - 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
    
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/)
 
 
 </p>
@@ -77,7 +76,10 @@ Talking about my personal stuff:
 
 <!-- ### Show some ❤️ by starring some of the repositories! --> 
 
-  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
+  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/) 
+-->
 
 
   
