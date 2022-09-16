@@ -76,8 +76,8 @@
  <br><br><br><br><br><br>
   <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=Chat-App&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/>
-<img src="https://github-readme-svg.vercel.app/api/v1/svg/road" alt="My endless road" />
+<!-- <br/><br/> -->
+<!-- <img src="https://github-readme-svg.vercel.app/api/v1/svg/road" alt="My endless road" /> -->
 <!-- ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
