@@ -99,12 +99,3 @@ Talking about my personal stuff:
 -->
 
 
-  
-<!--   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
-
-<!--   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
-
-<!--  ==============                                     GRAPH                                   ============ -->
-<!-- <a href="https://github.com/Raj-Mandloii/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
-
--->
