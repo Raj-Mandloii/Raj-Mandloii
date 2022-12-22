@@ -9,7 +9,7 @@
 <p align="center">
 
 - I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
-- I'm a passionate learner who's always willing to learn and work across technologies and domains.💡
+- I'm a 😍 passionate learner who's always willing to learn and work across 💻 technologies 🧑‍💻 and domains.💡
 - I continually seek new challenges and desire to expand my knowledge and experience.
 - Software quality, scalability and Service Oriented Architecture are subjects that fascinate me.😲
 - I ❤️ to explore new technologies and leverage them to solve real-life problems.🤔💭 
@@ -76,26 +76,6 @@
  <br><br><br><br><br><br>
   <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=ChatApp-with-Firebase&theme=react&border_color=61dafb&border_radius=15"></a>
 </div>
-<!-- <br/><br/> -->
-<!-- <img src="https://github-readme-svg.vercel.app/api/v1/svg/road" alt="My endless road" /> -->
-<!-- ## Watch my contribution graph get eaten by the snake 🐍
 
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-<!-- ![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)    -->
-
-<!-- ### Show some ❤️ by starring some of the repositories! 
-Talking about my personal stuff:
-   
-- 🙋‍♂️ Full Stack Web Developer.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 [Portfolio Link](https://raj-mandloii.github.io/raj-mandloi/)
-
-
---> 
-
-  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/) 
--->
 
 
