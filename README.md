@@ -47,8 +47,8 @@
   </p>
 <br/><br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/)
+<!-- ### ⚙️ &nbsp;GitHub Analytics
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/) -->
 
  <div > 
  <br/>
