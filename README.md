@@ -49,11 +49,7 @@
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/) -->
-<div   width="100%" align="center">
-   
- [![LeetCode Stats](https://leetcard.jacoblin.cool/rajmandloi1232?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
-   
-</div>
+
 
  <div > 
  <br/>
@@ -80,6 +76,12 @@
   <a align="left" href="https://github.com/Raj-Mandloii/max-fashion-website-clone" title="Max Fashion"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=whatsapp-clone-reactjs&theme=react&border_color=61dafb&border_radius=15"></a>
  <br><br><br><br><br><br>
   <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=ChatApp-with-Firebase&theme=react&border_color=61dafb&border_radius=15"></a>
+</div>
+
+<div   width="100%" align="center">
+   
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/rajmandloi1232?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+   
 </div>
 
 
