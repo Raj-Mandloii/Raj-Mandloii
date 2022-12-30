@@ -49,7 +49,10 @@
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/) -->
+<div  align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rajmandloi1232?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+</div>
+
  <div > 
  <br/>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p>
