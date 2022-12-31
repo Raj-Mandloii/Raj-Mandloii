@@ -80,7 +80,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div   width="100%" align="center">
    
- [![LeetCode Stats](https://leetcard.jacoblin.cool/rajmandloi1232?border=0&radius=20theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+ ![](https://leetcard.jacoblin.cool/rajmandloi1232?theme=light,unicorn)
    
 </div>
 
