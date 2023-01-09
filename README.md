@@ -59,10 +59,10 @@
 
 
 </div>
-<!-- 
+
 <br/><br/><br/><br/>
 
-<br/><br/><br/><br/> -->
+<br/><br/><br/><br/>
 
 
 <br/><br/>
@@ -77,7 +77,7 @@
  <br><br><br><br><br><br>
   <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=ChatApp-with-Firebase&theme=react&border_color=61dafb&border_radius=15"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <div   width="100%" align="center">
    
  ![](https://leetcard.jacoblin.cool/rajmandloi1232?theme=light,unicorn)
