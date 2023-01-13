@@ -34,7 +34,7 @@
 <br/><br/>
 <p align="center">
 <img aling="left" src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css,tailwind,materialui,dart" alt="My Skills"/>
-  <hr align="center" width="50%"/>
+<br/><br/>
   
   </p>
 <br/><br/>
