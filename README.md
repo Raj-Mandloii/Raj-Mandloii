@@ -64,12 +64,16 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/Raj-Mandloii/gold-tub-6222" title="Hub Spot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=gold-tub-6222&theme=react&border_color=61dafb&border_radius=15"></a>
-  <a align="left" href="https://github.com/Raj-Mandloii/max-fashion-website-clone" title="Max Fashion"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=whatsapp-clone-reactjs&theme=react&border_color=61dafb&border_radius=15"></a>
- <br><br><br><br><br><br>
-  <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=ChatApp-with-Firebase&theme=react&border_color=61dafb&border_radius=15"></a>
+ <br><br>
+  <a align="left" href="https://github.com/Raj-Mandloii/gold-tub-6222" title="Hub Spot"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=gold-tub-6222&theme=react&border_color=61dafb&border_radius=15"></a>
+   <br><br><br>
+  <a align="left" href="https://github.com/Raj-Mandloii/max-fashion-website-clone" title="Max Fashion"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=whatsapp-clone-reactjs&theme=react&border_color=61dafb&border_radius=15"></a>
+ <br><br><br>
+  <a align="left" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=ChatApp-with-Firebase&theme=react&border_color=61dafb&border_radius=15"></a>
 </div>
-<br/><br/>
+<br/><br/><br><br>
+<h2 align="center">✌️ Leetcode States ✌️</h2>
+<br>
 <div   width="100%" align="center">
    
  ![](https://leetcard.jacoblin.cool/rajmandloi1232?theme=light,unicorn)
