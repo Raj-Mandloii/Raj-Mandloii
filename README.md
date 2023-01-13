@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="center">
 
-- I am Raj Mandloi from Indore. Skilled in Full Stack Web Developement | Flutter Developement.
+- I am Raj Mandloi from Indore🌏. Skilled in Full Stack Web Developement | Flutter Developement.
 - I'm a 😍 passionate learner who's always willing to learn and work across 💻 technologies 🧑‍💻 and domains.💡
 - I continually seek new challenges and desire to expand my knowledge and experience.
 - Software quality, scalability and Service Oriented Architecture are subjects that fascinate me.😲
@@ -27,23 +27,15 @@
 <!-- <br/><br/><br/><br/> -->
 <h2 align="center">☕ Let's Connect</h2>
 <p align="center">
-<a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raj-mandloi/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_raj_mandloi"><img height="60" align="center" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
 <p align="center">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="icons/mongo.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="icons/flutter.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-      <a href="https://dart.dev/" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-      
+<img aling="center" src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css,tailwind,materialui,dart" alt="My Skills"/>
+  <hr width="50%"/>
+  
   </p>
 <br/><br/>
 
