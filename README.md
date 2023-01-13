@@ -33,7 +33,9 @@
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
 <p align="center">
-<img aling="left" src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css,tailwind,materialui,dart" alt="My Skills"/>
+<img aling="left" src="https://skillicons.dev/icons?i=react,flutter,redux,js,ts,nextjs,bootstrap,html,css,tailwind,materialui,dart" alt="My Skills"/>
+<br/><br/>
+<img aling="left" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" alt="My Skills"/>
 <br/><br/>
   
   </p>
