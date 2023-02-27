@@ -47,7 +47,7 @@
 
  <div > 
  <br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p>
+<!-- <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p> -->
 <div  align="center">
 <h2 align="center">👨‍💻 Github States 👨‍💻</h2>
 <br>
