@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="center">
 
-- I am Raj Mandloi from Indore🌏. Skilled in Full Stack Web Developement | Flutter Developement.
+- I am Raj Mandloi from Indore🌏. Skilled in Flutter Developement.
 - I'm a 😍 passionate learner who's always willing to learn and work across 💻 technologies 🧑‍💻 and domains.💡
 - I continually seek new challenges and desire to expand my knowledge and experience.
 - Software quality, scalability and Service Oriented Architecture are subjects that fascinate me.😲
